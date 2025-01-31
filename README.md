@@ -9,7 +9,7 @@ Use linguagem informal e seja criativo.
 Crie um título curto, épico e engraçado
 Crie uma capa divertida e use granulado de brigadeiro no layout do ebook "
 
-2. Uso do plugin "Ebook Creator" do chatgpt para gerar o arquivo do ebook através do seguinte prompt:
+2. Uso do plugin "Ebook Creator" do chatgpt para gerar o arquivo do ebook através do seguinte prompt formado a partir do conteúdo gerado pela IA anteriormente:
 "Crie um ebook com este conteúdo abaixo:
 
 Título: "Chocolate: O Poderoso Bolo!"
